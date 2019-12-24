@@ -1,0 +1,24 @@
+.temp{
+    color:blue;
+}
+
+header {
+    height: 300px;
+    width: 100%;
+    overflow: hidden;
+    
+}
+header img{
+    margin-top:-800px;
+}
+
+body {
+    background-color: #E9E9E9;
+}
+.main-content{
+    width:60%;
+    margin-left:auto;
+    margin-right:auto;
+    background-color:white;
+    padding:30px;
+}
